@@ -17,4 +17,18 @@ Streaming anomaly detection refers to the problem of detecting anomalous data sa
 ## Conference Location: 
 - Orlando, FL, USA 
 
+## Cite
 
+If you found this repository interesting, please cite as:
+```bibtex
+@article{gallego2025inqmad,
+  title={INQMAD: incremental streaming anomaly detection with density matrices, quantum measurement, and density estimation},
+  author={Gallego, Joseph and Bustos-Brinez, Oscar A and Gonz{\'a}lez, Fabio A},
+  journal={Neural Computing and Applications},
+  volume={37},
+  number={32},
+  pages={27475--27503},
+  year={2025},
+  publisher={Springer}
+}
+``
