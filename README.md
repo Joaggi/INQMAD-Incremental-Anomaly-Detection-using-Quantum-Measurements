@@ -149,6 +149,21 @@ If you use this repository in your research, please cite:
   publisher={Springer}
 }
 ```
-
+```bibtex
+@dataset{gallego_2026_18613986,
+  author       = {Gallego, Joseph and
+                  Bustos-Briñez, Oscar Alberto and
+                  Gonzalez, Fabio},
+  title        = {InQMAD: Incremental Quantum Measurement Anomaly
+                   Detection Dataset
+                  },
+  month        = feb,
+  year         = 2026,
+  publisher    = {Zenodo},
+  version      = {1.0.0},
+  doi          = {10.5281/zenodo.18613986},
+  url          = {https://doi.org/10.5281/zenodo.18613986},
+}
+```
 We appreciate citations as they help support continued research in density matrix–based machine learning methods.
 
