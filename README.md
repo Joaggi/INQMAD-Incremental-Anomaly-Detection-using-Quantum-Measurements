@@ -165,5 +165,19 @@ If you use this repository in your research, please cite:
   url          = {https://doi.org/10.5281/zenodo.18613986},
 }
 ```
+```bibtex
+@software{joagg_2022_7183564,
+  author       = {Joagg},
+  title        = {Joaggi/Incremental-Anomaly-Detection-using-
+                   Quantum-Measurements: v1.0.0
+                  },
+  month        = oct,
+  year         = 2022,
+  publisher    = {Zenodo},
+  version      = {v1.0.0},
+  doi          = {10.5281/zenodo.7183564},
+  url          = {https://doi.org/10.5281/zenodo.7183564},
+}
+```
 We appreciate citations as they help support continued research in density matrix–based machine learning methods.
 
