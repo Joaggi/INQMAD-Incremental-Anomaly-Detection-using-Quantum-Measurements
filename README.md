@@ -1,7 +1,7 @@
 # InQMAD: Incremental Quantum Measurement Anomaly Detection
 This is the official repository for INQMAD. It has been created using Tensorflow and Jax. 
 
-InQMAD is now part of [PySAD](https://github.com/Joaggi/pysad/tree/master). Check it out!
+InQMAD is now part of [PySAD](https://github.com/selimfirat/pysad). Check it out!
 
 ## Abstract:
 
