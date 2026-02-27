@@ -18,14 +18,6 @@ Streaming anomaly detection refers to the problem of detecting anomalous data sa
 ## Conference Location: 
 - Orlando, FL, USA 
 
-
-# Dataset
-
-All the data can be found in https://zenodo.org/records/18613986
-Here is an enhanced, clearer, and more professional version of your section. It improves structure, clarity, and reproducibility while keeping it concise and research-oriented.
-
----
-
 # Dataset
 
 All datasets used in the experiments are publicly available on Zenodo:
